@@ -1,0 +1,13 @@
+.cover {
+  display: flex;
+  justify-content: center;
+}
+
+.photo {
+  width: 300px;
+  border: 1px solid;
+  margin-right: 10px;
+  margin-bottom: 10px;
+  border-radius: 8px;
+  box-shadow: 0 0 5px rgb(0 0 0 / 50%);
+}

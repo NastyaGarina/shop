@@ -1,0 +1,19 @@
+.adminfunctions {
+  padding: 10px;
+  background-color: gray;
+  display: flex;
+  justify-content: center;
+}
+.adminfunctions li {
+  list-style-type: none;
+  display: inline;
+}
+.adminfunctions li a {
+  padding: 20px;
+  color: black;
+}
+.adminTitle {
+  display: flex;
+  justify-content: center;
+  font-size: 35px;
+}
